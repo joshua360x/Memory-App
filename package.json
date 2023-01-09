@@ -32,6 +32,11 @@
       "react-app/jest"
     ]
   },
+  "devServer": {
+    "compress": true,
+    "disableHostCheck": true
+
+ } ,
   "browserslist": {
     "production": [
       ">0.2%",
